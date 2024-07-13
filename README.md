@@ -31,6 +31,7 @@ To get started with Notification App, follow these steps:
 1. Clone the repository:
 ```bash
 git clone https://github.com/your_username/notification-app.git
+```bash
 
 2. Open the project in Android Studio.
 
