@@ -29,7 +29,7 @@ Notification App is a mobile application designed for Android devices to manage 
 To get started with Notification App, follow these steps:
 
 1. Clone the repository:
-bash```
+```bash
 git clone https://github.com/your_username/notification-app.git
 
 2. Open the project in Android Studio.
