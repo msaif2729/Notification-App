@@ -11,10 +11,12 @@ Notification App is a mobile application designed for Android devices to manage 
 ## Screenshots
 
 <img src="https://github.com/user-attachments/assets/731990da-b783-49d2-82f7-ef6218e4fda7" alt="Screenshot 1" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
-<img src="https://github.com/user-attachments/assets/f2ff79c4-5d4a-4cd0-a7d1-6b1c03e31c09" alt="Screenshot 2" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
-<img src="https://github.com/user-attachments/assets/b1d96eaa-b093-4237-ab4e-69c175f53ce6" alt="Screenshot 3" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
-<img src="https://github.com/user-attachments/assets/c275bee7-b5ea-41e3-b9d6-4d7f27eb7e42" alt="Screenshot 4" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
-<img src="https://github.com/user-attachments/assets/b0aff761-3889-4973-9045-9f059991ad1f" alt="Screenshot 5" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/721b37f1-d8e3-4d0e-bf0a-31157538a2d2" alt="Screenshot 2" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/0cca0c95-c0ce-428b-8b88-698243a1b630" alt="Screenshot 3" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/c550f1f7-8f73-4018-a449-8a47f06e42d7" alt="Screenshot 4" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/47f3c9c7-1f14-4888-a95a-3071d64e3e61" alt="Screenshot 4" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/839f952b-00f5-41a8-b4a6-5bb3376b8582" alt="Screenshot 5" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
+<img src="https://github.com/user-attachments/assets/f8582ade-75f8-46fe-8bee-6c9cac1a3989" alt="Screenshot 5" width="200" style="border: 2px solid #000000; margin-right: 15px; margin-bottom: 10px;">
 
 ## Technologies Used
 
